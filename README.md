@@ -2,6 +2,7 @@
 I will be learning html from today..
 <br><br>
 ******* I learn html tags like*******
+<br>
 heading <br>
 paragraph<br>
 br tags<br>
